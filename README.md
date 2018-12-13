@@ -1,18 +1,12 @@
-## Welcome to GitHub Pages
+## About Me
 
-You can use the [editor on GitHub](https://github.com/AlbertLei/albertlei.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+I am a PhD in Economics at Hong Kong University of Science and Technology.
+> **Email** albert.lei ``at'' connect.ust.hk <br> **Research interest** Applied Microeconomic Theory
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### [Curriculum Vitae (2018-08-29)]
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
+## Research
 ### Header 3
 
 - Bulleted
