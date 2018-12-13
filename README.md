@@ -3,7 +3,7 @@
 I am a PhD in Economics at Hong Kong University of Science and Technology.
 > **Email:** albert.lei ``at'' connect.ust.hk <br> **Research interest:** Applied Microeconomic Theory
 
-### [Curriculum Vitae (2018-12-14)]
+### [Curriculum Vitae (2018-12-14)](https://github.com/AlbertLei/albertlei.github.io/blob/master/cv/cv.pdf)
 
 
 ## Working Papers
