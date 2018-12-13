@@ -10,4 +10,4 @@ I am a PhD in Economics at Hong Kong University of Science and Technology.
 - Albert Haoran Lei, Xiaojian Zhao, _Delegation with Unawareness_, Working Paper, 2018 Dec.
 
 
-(Last modified: Dec 13, 2018)
+<p align="right">(_Last modified: Dec 13, 2018_)</p>
