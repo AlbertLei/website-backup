@@ -1,4 +1,4 @@
-> **Email:** albert.lei ``at'' connect.ust.hk <br> **Research interest:** Applied Microeconomic Theory
+> **Email:** hleiaa ``at'' ust dot hk <br> **Research interest:** Applied Microeconomic Theory
 
 ## About Me
 
