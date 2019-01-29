@@ -1,8 +1,8 @@
-> **Email:** hleiaa ``at'' ust dot hk <br> **Research interest:** Applied Microeconomic Theory
+> **Email:** hleiaa ``at'' ust.hk <br> **Postal Address:** Room 4017, LSK Building, HKUST 
 
 ## About Me
 
-I am a PhD in Economics at Hong Kong University of Science and Technology.
+I am a PhD in Economics at Hong Kong University of Science and Technology. 
 
 ### [Curriculum Vitae (2018-12-14)](https://albertlei.github.io/cv/cv.pdf)
 
