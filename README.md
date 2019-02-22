@@ -17,6 +17,6 @@ I am a PhD in Economics at Hong Kong University of Science and Technology.
 
 
 
-<img src="https://user-images.githubusercontent.com/16741954/53255641-016e1f80-3701-11e9-9e6d-ec4a209a4815.jpg" style="transform:rotate(270deg);" width="176" height="252.8" align = right>
+<img src="https://user-images.githubusercontent.com/16741954/53255641-016e1f80-3701-11e9-9e6d-ec4a209a4815.jpg" style="transform:rotate(270deg);" width="176" height="252.8">
 
 <p align="right"><I>Last modified: Dec 13, 2018</I></p>
