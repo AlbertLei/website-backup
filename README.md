@@ -14,7 +14,7 @@ I am a PhD in Economics at the Hong Kong University of Science and Technology.
 
 
 <center>
-    <img src='https://user-images.githubusercontent.com/16741954/53260732-2e283400-370d-11e9-8792-09b985b66156.jpg' alt='xiaoxiao_niu' height="202.4" width="252.8">
+    <img src='https://user-images.githubusercontent.com/16741954/53261449-08039380-370f-11e9-93e3-a58853e6216e.jpg' alt='xiaoxiao_niu' height="196.8" width="252.8">
 </center>  
 
 
