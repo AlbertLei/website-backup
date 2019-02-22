@@ -16,7 +16,11 @@ I am a PhD in Economics at the Hong Kong University of Science and Technology.
 <center>
   <figure>
     <img src='https://user-images.githubusercontent.com/16741954/53255641-016e1f80-3701-11e9-9e6d-ec4a209a4815.jpg' alt='missing' style="transform:rotate(270deg);" width="176" height="252.8">
-    <figcaption> Credit to smart Xiaoxiao </figcaption>
+    <figcaption>
+      <font face = "Lucida Calligraphy,Comic Sans MS,Lucida Console">
+        <I> Credit to smart Xiaoxiao </I>
+      </font>
+    </figcaption>
   </figure>
 </center>  
 
