@@ -1,5 +1,5 @@
-> **Email:** hleiaa ''at'' ust.hk <br> **Postal Address:** Room 4017, LSK Building, 
 <img src="https://user-images.githubusercontent.com/16741954/53255641-016e1f80-3701-11e9-9e6d-ec4a209a4815.jpg" style="transform:rotate(270deg);" width="176" height="252.8" align = right>
+> **Email:** hleiaa ''at'' ust.hk <br> **Postal Address:** Room 4017, LSK Building, 
 > Hong Kong University of Science & Technology, Hong Kong
 
 
