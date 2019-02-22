@@ -15,8 +15,8 @@ I am a PhD in Economics at the Hong Kong University of Science and Technology.
 
 <center>
   <figure>
-    <img src='https://user-images.githubusercontent.com/16741954/53255641-016e1f80-3701-11e9-9e6d-ec4a209a4815.jpg' alt='missing' />
-    <figcaption>Credit to smart Xiaoxiao</figcaption>
+    <img src='https://user-images.githubusercontent.com/16741954/53255641-016e1f80-3701-11e9-9e6d-ec4a209a4815.jpg' alt='missing' style="transform:rotate(270deg);" width="176" height="252.8"> />
+    <figcaption><I> Credit to smart Xiaoxiao </I></figcaption>
   </figure>
 </center>  
 
