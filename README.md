@@ -4,7 +4,7 @@
 
 ## About Me
 
-I am a PhD in Economics at Hong Kong University of Science and Technology. 
+I am a PhD in Economics at the Hong Kong University of Science and Technology. 
 
 ### [Curriculum Vitae (2018-12-14)](https://albertlei.github.io/cv/cv.pdf)
 
