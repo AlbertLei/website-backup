@@ -13,7 +13,7 @@ I am a PhD in Economics at the Hong Kong University of Science and Technology.
 
 
 # Working Papers
-- Delegation with Unawareness, Albert Haoran Lei and Xiaojian Zhao, [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3300732#), 2018 Dec.
+- [**Delegation with Unawareness**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3300732#), Albert Haoran Lei and Xiaojian Zhao, 2018 Dec.
 
 
 <center>
