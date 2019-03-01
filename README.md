@@ -1,16 +1,17 @@
 # Contact
 
-**Email:** hleiaa [AT] ust [dot] hk <br> 
-**Email Alias:** albert.lei [AT] connect.ust.hk <br>
 **Postal Address:** Room 4017, LSK Business Building, <br>
-Hong Kong University of Science & Technology, Hong Kong
+Hong Kong University of Science & Technology, Hong Kong <br>
+**Email:** albert.lei AT connect.ust.hk <br> 
+**Email Alias:** hleiaa AT ust DOT hk  
+
 
 
 # About Me
 
-I am a PhD in Economics at the Hong Kong University of Science and Technology. 
+I am a PhD in Economics at the Hong Kong University of Science and Technology.  
 
-CV: [pdf](https://albertlei.github.io/cv/cv.pdf)
+#### CV(2018-12-08) [pdf](https://albertlei.github.io/cv/cv.pdf)
 
 
 # Working Papers
