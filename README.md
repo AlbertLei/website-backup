@@ -9,7 +9,7 @@
 
 I am a PhD in Economics at the Hong Kong University of Science and Technology.  
 
-#### CV(2018-12-08) [pdf](https://albertlei.github.io/cv/cv.pdf)
+#### [CV (2018-12-08)](https://albertlei.github.io/cv/cv.pdf)
 
 
 # Working Papers
