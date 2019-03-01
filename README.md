@@ -6,11 +6,11 @@
 
 I am a PhD in Economics at the Hong Kong University of Science and Technology. 
 
-### [Curriculum Vitae (2018-12-14)](https://albertlei.github.io/cv/cv.pdf)
+CV: [pdf](https://albertlei.github.io/cv/cv.pdf)
 
 
 # Working Papers
-- Albert Haoran Lei, Xiaojian Zhao, [_Delegation with Unawareness_](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3300732#), Working Paper, 2018 Dec.
+- Delegation with Unawareness, Albert Haoran Lei and Xiaojian Zhao, [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3300732#), 2018 Dec.
 
 
 <center>
