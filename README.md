@@ -1,6 +1,6 @@
 > **Postal Address**  <br> Room 4017, LSK Business Building,
 > HKUST, Hong Kong <br>
-> **Email:** <br>
+> **Email** <br>
 > albert.lei "at" connect.ust.hk  
 
 
