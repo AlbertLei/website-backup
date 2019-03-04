@@ -1,7 +1,7 @@
-> **Postal Address:** Room 4017, LSK Business Building, <br>
-> Hong Kong University of Science & Technology, Hong Kong <br>
-> **Email:** albert.lei "_at-sign_" connect.ust.hk <br> 
-> **Email Alias:** hleiaa "_at-sign_" ust.hk  
+> **Postal Address**  <br> Room 4017, LSK Business Building,
+> HKUST, Hong Kong <br>
+> **Email:** <br>
+> albert.lei "at" connect.ust.hk  
 
 
 
