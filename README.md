@@ -13,7 +13,7 @@ I am a PhD in Economics at the Hong Kong University of Science and Technology.
 
 
 # Working Papers
-- [**Delegation with Unawareness**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3300732#), Albert Haoran Lei and Xiaojian Zhao, 2018 Dec.
+- [**Delegation with Unawareness**](https://albertlei.github.io/papers/delegation181213.pdf), Albert Haoran Lei and Xiaojian Zhao, 2018 Dec.
 
 - **Sequential Screening with Last-minute Sales**, Albert Haoran Lei, early draft available upon request.
 
