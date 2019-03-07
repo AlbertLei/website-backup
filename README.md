@@ -25,7 +25,7 @@ I am a PhD in Economics at the Hong Kong University of Science and Technology.
 
 ## Miscellany
 
-- Some random thoughts are contained in the [Miscellany Page](https://albertlei.github.io/miscellany).
+- [Rondom Thoughts](https://albertlei.github.io/miscellany).
 
 --- 
 
