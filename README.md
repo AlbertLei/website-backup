@@ -17,7 +17,7 @@ I am a PhD in Economics at the Hong Kong University of Science and Technology.
 
 - **Sequential Screening with Last-minute Sales**, Albert Haoran Lei, early draft available upon request.
 
-## Links
+# Links
 
 - [HKUST Seminar](http://www.bm.ust.hk/econ/seminars-and-events/seminars-workshop/research-seminars)
 
