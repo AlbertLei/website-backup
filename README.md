@@ -22,11 +22,6 @@ I am a PhD in Economics at the Hong Kong University of Science and Technology.
 - [HKUST Seminar](http://www.bm.ust.hk/econ/seminars-and-events/seminars-workshop/research-seminars)
 
 
-
-## Miscellany
-
-- [Rondom Thoughts](https://albertlei.github.io/miscellany).
-
 --- 
 
 <p align="right"><I>Last modified: Dec 13, 2018</I></p>
