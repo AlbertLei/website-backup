@@ -5,19 +5,19 @@
 
 
 
-# About Me
+### About Me
 
 I am a PhD in Economics at the Hong Kong University of Science and Technology.  
 
 #### [CV (2018-12-08)](https://albertlei.github.io/cv/cv.pdf)
 
 
-# Working Papers
+### Working Papers
 - [**Delegation with Unawareness**](https://albertlei.github.io/papers/delegation181213.pdf), Albert Haoran Lei and Xiaojian Zhao, 2018 Dec.
 
 - **Sequential Screening with Last-minute Sales**, Albert Haoran Lei, early draft available upon request.
 
-# Links
+### Links
 
 - [HKUST Seminar](http://www.bm.ust.hk/econ/seminars-and-events/seminars-workshop/research-seminars)
 
